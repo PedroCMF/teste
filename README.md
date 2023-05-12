@@ -1,2 +1,2 @@
 # teste
-Sandro e Pedro
+Sandro e 
