@@ -6,3 +6,6 @@ sdjfhdskjfhsdjkfhsdjlhfladsnflsdanflasds
 dslfsdhfkjsdhjkgadsngsa
 sdaglkadsjgbsdhabgfjkasdnmgpdsadsa
 dsgsdkjbvsdkjangvklsadnmgvkdas
+
+
+INCLUI O COMBO DE CIDADES: AGORA TODOS PODERÃO VER AS CIDADES CLICANDO NO COMBRO CIDADES.
